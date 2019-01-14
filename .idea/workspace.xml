@@ -22,10 +22,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem1.js">
+        <entry file="file://$PROJECT_DIR$/Problem2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+            <state relative-caret-position="120">
+              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../javascript-forloops-cw-leejr1983/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../javascript-forloops-cw-leejr1983/Problem3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -34,10 +55,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Problem1.html">
+        <entry file="file://$PROJECT_DIR$/Problem2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -60,6 +81,8 @@
       <list>
         <option value="$PROJECT_DIR$/Problem1.js" />
         <option value="$PROJECT_DIR$/Problem1.html" />
+        <option value="$PROJECT_DIR$/Problem2.html" />
+        <option value="$PROJECT_DIR$/Problem2.js" />
       </list>
     </option>
   </component>
@@ -102,6 +125,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.4.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javascript-forloops-cw-leejr1983/Problem3.js" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -135,6 +159,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1600" height="824" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Favorites" side_tool="true" />
@@ -165,11 +190,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor />
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/Problem1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -183,10 +207,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problem1.html">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javascript-forloops-cw-leejr1983/Problem1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javascript-forloops-cw-leejr1983/Problem2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javascript-forloops-cw-leejr1983/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javascript-forloops-cw-leejr1983/Problem3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
